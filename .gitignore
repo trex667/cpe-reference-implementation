@@ -7,3 +7,5 @@
 .pmdruleset.xml
 /target/
 /velocity.log
+**/*.iml
+**/*.idea
